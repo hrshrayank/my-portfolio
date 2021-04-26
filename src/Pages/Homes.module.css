@@ -1,0 +1,25 @@
+.tools {
+  border-radius: 20px;
+  background: #ffa500;
+  box-shadow: -26px -26px 51px #b37400, 26px 26px 51px #ffd700;
+  padding: 10px;
+  margin: 30px;
+}
+.tools > img {
+  margin: 20px 20px 0 0;
+}
+.about__me {
+  background-color: #b37400;
+}
+
+#butn {
+  border-radius: 20px;
+  background: #ffa500;
+  box-shadow: -26px -26px 51px #f7a000, 26px 26px 51px #ffd900;
+  color: black;
+  border: 1px solid rgb(74, 74, 74);
+}
+
+.github {
+  background: #ffa500;
+}

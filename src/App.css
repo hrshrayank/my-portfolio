@@ -1,0 +1,32 @@
+.circle.small {
+  border: 2px solid rgb(62, 62, 62);
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-size: 14px;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.circle.filled {
+  background-color: #666666;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  /* border-radius: 10px; */
+  background-color: rgb(221, 221, 221);
+}
